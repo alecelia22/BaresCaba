@@ -2,13 +2,13 @@
 <resources>
 
     <string name="app_name">Bares de C.A.B.A.</string>
-    <string name="title_section1">Busca tu Bar</string>
-    <string name="title_section2">Lista de Bares</string>
-    <string name="title_section3">Mapa de los Bares</string>
-
+    <string name="buscar_tu_bar">Busca tu Bar</string>
+    <string name="lista_de_bares">Lista de Bares</string>
+    <string name="mapa_de_los_bares">Mapa de los Bares</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_example">Example action</string>
+    <string name="action_example">A!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa_de_bares2">Mapa de Bares</string>
 
 </resources>
